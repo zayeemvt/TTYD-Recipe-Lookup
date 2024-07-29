@@ -1,0 +1,457 @@
+[
+	{
+		"id":1,
+		"name":"Mushroom Fry",
+		"recipe": [
+			["Mushroom"],
+			["Super Mushroom"]
+		]
+	},
+	{
+		"id":2,
+		"name":"Mushroom Roast",
+		"recipe": [
+			["Slow Mushroom"],
+			["Mushroom","Fire Flower"],
+			["Mushroom","Super Mushroom"]
+		]
+	},
+	{
+		"id":3,
+		"name":"Mushroom Steak",
+		"recipe": [
+			["Ultra Mushroom"]
+		]
+	},
+	{
+		"id":4,
+		"name":"Honey Mushroom",
+		"recipe": [
+			["Mushroom", "Honey Syrup"]
+		]
+	},
+	{
+		"id":5,
+		"name":"Maple Mushroom",
+		"recipe": [
+			["Mushroom", "Maple Syrup"]
+		]
+	},
+	{
+		"id":6,
+		"name":"Jelly Mushroom",
+		"recipe": [
+			["Mushroom", "Jammin' Jelly"]
+		]
+	},
+	{
+		"id":7,
+		"name":"Honey Super",
+		"recipe": [
+			["Super Mushroom", "Honey Syrup"]
+		]
+	},
+	{
+		"id":8,
+		"name":"Maple Super",
+		"recipe": [
+			["Super Mushroom","Maple Syrup"]
+		]
+	},
+	{
+		"id":9,
+		"name":"Jelly Super",
+		"recipe": [
+			["Super Mushroom", "Jammin' Jelly"]
+		]
+	},
+	{
+		"id":10,
+		"name":"Honey Ultra",
+		"recipe": [
+			["Ultra Mushroom", "Honey Syrup"]
+		]
+	},
+	{
+		"id":11,
+		"name":"Maple Ultra",
+		"recipe": [
+			["Ultra Mushroom", "Maple Syrup"]
+		]
+	},
+	{
+		"id":12,
+		"name":"Jelly Ultra",
+		"recipe": [
+			["Ultra Mushroom", "Jammin' Jelly"]
+		]
+	},
+	{
+		"id":13,
+		"name":"Zess Dinner",
+		"recipe": [
+			["Mushroom", "Horsetail"],
+			["Super Mushroom", "Fire Flower"],
+			["Super Mushroom","Horsetail"],
+			["Super Mushroom","Keel Mango"],
+			["Super Mushroom","Peachy Peach"],
+			["Healthy Salad","Mushroom Fry"],
+			["Healthy Salad", "Koopasta"],
+			["Healthy Salad", "Spaghetti"],
+			["Spicy Pasta","Coconut"],
+			["Meteor Meal","Fruit Parfait"]
+		]
+	},
+	{
+		"id":14,
+		"name":"Zess Special",
+		"recipe": [
+			["Whacka Bump"],
+			["Ultra Mushroom","Fire Flower"],
+			["Ultra Mushroom","Horsetail"],
+			["Healthy Salad","Ink Pasta"],
+			["Healthy Salad","Mushroom Roast"],
+			["Healthy Salad","Spicy Pasta"]
+		]
+	},
+	{
+		"id":15,
+		"name":"Zess Deluxe",
+		"recipe": [
+			["Whacka Bump", "Golden Leaf"],
+			["Mushroom Steak", "Healthy Salad"]
+		]
+	},
+	{
+		"id":16,
+		"name":"Spaghetti",
+		"recipe": [
+			["Fresh Pasta"]
+		]
+	},
+	{
+		"id":17,
+		"name":"Koopasta",
+		"recipe": [
+			["Fresh Pasta", "Turtley Leaf"],
+			["Spaghetti", "Turtley Leaf"]
+		]
+	},
+	{
+		"id":18,
+		"name":"Spicy Pasta",
+		"recipe": [
+			["Hot Sauce", "Fresh Pasta"],
+			["Hot Sauce", "Spaghetti"],
+			["Hot Sauce", "Koopasta"]
+		]
+	},
+	{
+		"id":19,
+		"name":"Ink Pasta",
+		"recipe": [
+			["Inky Sauce", "Fresh Pasta"],
+			["Inky Sauce", "Koopasta"],
+			["Inky Sauce", "Spaghetti"],
+			["Inky Sauce", "Spicy Pasta"]
+		]
+	},
+	{
+		"id":20,
+		"name":"Hottest Dog",
+		"recipe": [
+			["Hot Sauce", "Hot Dog"]
+		]
+	},
+	{
+		"id":21,
+		"name":"Spicy Soup",
+		"recipe": [
+			["Fire Flower"]
+		]
+	},
+	{
+		"id":22,
+		"name":"Fried Egg",
+		"recipe": [
+			["Mystic Egg"]
+		]
+	},
+	{
+		"id":23,
+		"name":"Omelette Meal",
+		"recipe": [
+			["Mystic Egg", "Horsetail"],
+			["Mystic Egg", "Mushroom"],
+			["Mystic Egg", "Super Mushroom"]
+		]
+	},
+	{
+		"id":24,
+		"name":"Koopa Bun",
+		"recipe": [
+			["Keel Mango","Turtley Leaf"]
+		]
+	},
+	{
+		"id":25,
+		"name":"Healthy Salad",
+		"recipe": [
+			["Turtley Leaf", "Golden Leaf"],
+			["Turtley Leaf", "Horsetail"]
+		]
+	},
+	{
+		"id":26,
+		"name":"Meteor Meal",
+		"recipe": [
+			["Mushroom Fry", "Shooting Star"],
+			["Mushroom Roast", "Shooting Star"],
+			["Mushroom Steak", "Shooting Star"]
+		]
+	},
+	{
+		"id":27,
+		"name":"Couple's Cake",
+		"recipe": [
+			["Snow Bunny", "Spicy Soup"]
+		]
+	},
+	{
+		"id":28,
+		"name":"Mousse Cake",
+		"recipe": [
+			["Cake Mix"]
+		]
+	},
+	{
+		"id":29,
+		"name":"Mushroom Cake",
+		"recipe": [
+			["Mushroom","Cake Mix"],
+			["Super Mushroom","Cake Mix"]
+		]
+	},
+	{
+		"id":30,
+		"name":"Choco Cake",
+		"recipe": [
+			["Cake Mix", "Inky Sauce"],
+			["Mousse Cake", "Inky Sauce"]
+		]
+	},
+	{
+		"id":31,
+		"name":"Heartful Cake",
+		"recipe": [
+			["Cake Mix", "Ruin Powder"],
+			["Peachy Peach", "Ruin Powder"]
+		]
+	},
+	{
+		"id":32,
+		"name":"Fruit Parfait",
+		"recipe": [
+			["Keel Mango", "Honey Syrup"],
+			["Keel Mango", "Maple Syrup"],
+			["Keel Mango", "Peachy Peach"],
+			["Peachy Peach", "Honey Syrup"],
+			["Peachy Peach", "Maple Syrup"]
+		]
+	},
+	{
+		"id":33,
+		"name":"Mango Delight",
+		"recipe": [
+			["Keel Mango", "Cake Mix"]
+		]
+	},
+	{
+		"id":34,
+		"name":"Love Pudding",
+		"recipe": [
+			["Mystic Egg", "Mango Delight"]
+		]
+	},
+	{
+		"id":35,
+		"name":"Zess Cookie",
+		"recipe": [
+			["Cake Mix", "Maple Syrup"],
+			["Cake Mix", "Mystic Egg"]
+		]
+	},
+	{
+		"id":36,
+		"name":"Mushroom Crepe",
+		"recipe": [
+			["Ultra Mushroom", "Cake Mix"]
+		]
+	},
+	{
+		"id":37,
+		"name":"Peach Tart",
+		"recipe": [
+			["Peachy Peach", "Cake Mix"]
+		]
+	},
+	{
+		"id":38,
+		"name":"Koopa Tea",
+		"recipe": [
+			["Turtley Leaf"]
+		]
+	},
+	{
+		"id":39,
+		"name":"Zess Tea",
+		"recipe": [
+			["Golden Leaf"]
+		]
+	},
+	{
+		"id":40,
+		"name":"Mushroom Broth",
+		"recipe": [
+			["Golden Leaf", "Poison Mushroom"],
+			["Golden Leaf", "Slow Mushroom"],
+			["Turtley Leaf", "Slow Mushroom"]
+		]
+	},
+	{
+		"id":41,
+		"name":"Fresh Juice",
+		"recipe": [
+			["Honey Syrup"]
+		]
+	},
+	{
+		"id":42,
+		"name":"Inky Sauce",
+		"recipe": [
+			["Hot Sauce", "Fresh Juice"],
+			["Hot Sauce", "Koopa Tea"],
+			["Hot Sauce", "Mushroom Broth"],
+			["Hot Sauce", "Turtley Leaf"],
+			["Hot Sauce", "Zess Tea"],
+			["Hot Sauce", "Tasty Tonic"]
+		]
+	},
+	{
+		"id":43,
+		"name":"Icicle Pop",
+		"recipe": [
+			["Honey Syrup", "Ice Storm"]
+		]
+	},
+	{
+		"id":44,
+		"name":"Zess Frappe",
+		"recipe": [
+			["Ice Storm", "Maple Syrup"]
+		]
+	},
+	{
+		"id":45,
+		"name":"Snow Bunny",
+		"recipe": [
+			["Ice Storm", "Golden Leaf"]
+		]
+	},
+	{
+		"id":46,
+		"name":"Coco Candy",
+		"recipe": [
+			["Cake Mix", "Coconut"]
+		]
+	},
+	{
+		"id":47,
+		"name":"Honey Candy",
+		"recipe": [
+			["Honey Syrup", "Cake Mix"]
+		]
+	},
+	{
+		"id":48,
+		"name":"Jelly Candy",
+		"recipe": [
+			["Jammin' Jelly", "Cake Mix"]
+		]
+	},
+	{
+		"id":49,
+		"name":"Electro Pop",
+		"recipe": [
+			["Cake Mix", "Volt Mushroom"]
+		]
+	},
+	{
+		"id":50,
+		"name":"Fire Pop",
+		"recipe": [
+			["Cake Mix", "Fire Flower"],
+			["Cake Mix", "Hot Sauce"]
+		]
+	},
+	{
+		"id":51,
+		"name":"Space Food",
+		"recipe": [
+			["Dried Bouquet", "Mushroom"]
+		]
+	},
+	{
+		"id":52,
+		"name":"Poison Mushroom",
+		"recipe": [
+			["Inky Sauce", "Slow Mushroom"],
+			["Point Swap", "Slow Mushroom"],
+			["Dried Bouquet", "Trial Stew"]
+		]
+	},
+	{
+		"id":53,
+		"name":"Trial Stew",
+		"recipe": [
+			["Poison Mushroom", "Couple's Cake"],
+			["Thunder Bolt", "Thunder Rage"]
+		]
+	},
+	{
+		"id":54,
+		"name":"Courage Meal",
+		"recipe": [
+			["Courage Shell", "Zess Dinner"],
+			["Courage Shell", "Zess Special"]
+		]
+	},
+	{
+		"id":55,
+		"name":"Coconut Bomb",
+		"recipe": [
+			["Coconut", "Fire Flower"]
+		]
+	},
+	{
+		"id":56,
+		"name":"Egg Bomb",
+		"recipe": [
+			["Mystic Egg", "Fire Flower"]
+		]
+	},
+	{
+		"id":57,
+		"name":"Zess Dynamite",
+		"recipe": [
+			["Egg Bomb", "Coconut Bomb"]
+		]
+	},
+	{
+		"id":58,
+		"name":"Mistake",
+		"recipe": [
+			[""]
+		]
+	}
+]
